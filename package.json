@@ -1,0 +1,15 @@
+{
+  "name": "quoteserver",
+  "version": "1.0.0",
+  "description": "Serves up quotes",
+  "main": "quoteserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node quoteserver.js"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
