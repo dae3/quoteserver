@@ -39,4 +39,8 @@ app.get('/all', function(req, res) {
 	res.send(quotes);
 });
 
+<<<<<<< HEAD
 app.listen((process.env.PORT == null) ? 9000 : process.env.PORT);
+=======
+app.listen((process.env.PORT == null) ? 8080 : process.env.PORT);
+>>>>>>> 77615c50488fbd48edfde2b018f03cfb91480d6e
