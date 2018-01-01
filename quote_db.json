@@ -109,7 +109,14 @@
 		"attribution": "Willa Cather"
 	}, {
 		"id": "591b8b58ca40b336fb34918e",
-		"text": "A quote by C.S. Lewis",
-		"attribution": "That is the key to history. Terrific energy is expended - civilizations are built up - excellent institutions devised; but each time something goes wrong..."
+		"text": "That is the key to history. Terrific energy is expended - civilizations are built up - excellent institutions devised; but each time something goes wrong...",
+		"attribution": "C.S. Lewis"
+	},
+ {
+		"id": "8678c2d1-6b5f-4354-a241-749299bf4bab",
+		"text": "Start where you are. Use what you have. Do what you can.",
+		"attribution": "Arthur Ashe"
 	}
+ 
+ 
 ]
